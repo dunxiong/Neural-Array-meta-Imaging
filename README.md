@@ -3,7 +3,8 @@
 This repository contains the official implementation of the paper:
 
 > **Neural Array Meta-Imaging**  
-> Xiong Dun, Jian Zhang, Fansheng Chen, Zhanyi Zhang, Xuquan Wang, Yujie Xing, Siyu Dong, Zeying Fan, Yuzhi Shi, Gordon Wetzstein, Zhanshan Wang, Xinbin Cheng  
+> Xiong Dun, Jian Zhang, Fansheng Chen, Zhanyi Zhang, Xuquan Wang, Yujie Xing, Siyu Dong, Zeying Fan, Yuzhi Shi, Gordon Wetzstein, Zhanshan Wang, Xinbin Cheng
+> elight, 2025 
 ---
 
 **Neural Array Meta-Imaging (NAMI)** introduces a new computational imaging paradigm that integrates a **neural array mapping metalens** with **end-to-end learning-based reconstruction**.  
