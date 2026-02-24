@@ -33,7 +33,7 @@ For the  training of unit lens and neural array , We used the **INRIA Holiday da
 >cd 0Metalens-unit-design  
 >conda env create -f environment.yml  
 >sh run_train.sh
----
+
 **Neural array design**  
 >cd 1Neural-array-design  
 >**sh run_train_all.sh
