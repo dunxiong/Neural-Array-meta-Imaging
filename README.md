@@ -54,7 +54,7 @@ If you find our work useful in your research, please cite:
   title={Neural Array Meta-Imaging},
   author={Dun, Xiong and Zhang, Jian and Chen, Fansheng and Zhang, Zhanyi and Wang, Xuquan and Xing, Yujie and Dong, Siyu and Fan, Zeying and Shi, Yuzhi and Wetzstein, Gordon and Wang, Zhanshan and Cheng, Xinbin},
   year={2025},
-  journal={To be announced}
+  journal={elight}
 }
 
 ```
