@@ -28,31 +28,23 @@ The workflow includes four main parts:
 ## Usage
 **Metalens Unit Design**
 
-cd 0Metalens-unit-design
-
-conda env create -f environment.yml
-
-sh run_train.sh
-
+>cd 0Metalens-unit-design
+>conda env create -f environment.yml
+>sh run_train.sh
+---
 **Neural array design**
-
-cd 1Neural-array-design
-
-sh run_train_all.sh
+>cd 1Neural-array-design
+>**sh run_train_all.sh
 
 **MFWDFNet finetuning**
 
-cd 2MFWDFNet-finetuning
-
-conda env create -f pytorch_2_2.yaml
-
-sh run_train_MFWDFNet_CPSF.sh
+>cd 2MFWDFNet-finetuning
+>conda env create -f pytorch_2_2.yaml
+>sh run_train_MFWDFNet_CPSF.sh
 
 **Experiment**
-
-cd 3Experiment
-
-python inference.py
+>cd 3Experiment
+>python inference.py
 
 ## Citation
 If you find our work useful in your research, please cite:
