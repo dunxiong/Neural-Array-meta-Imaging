@@ -25,6 +25,9 @@ The workflow includes four main parts:
 | `3Experiment` | **Experimental Validation** | Real captured data reconstruction and comparison with simulation results. |
 
 
+## Dataset
+For the  training of unit lens and neural array , We used the **INRIA Holiday dataset**(https://www.kaggle.com/datasets/rasvanjaya21/inria-holidays-dataset). however, any other datasets can be used, you just need to put them in the Dataset files.
+
 ## Usage
 **Metalens Unit Design**  
 >cd 0Metalens-unit-design  
@@ -55,6 +58,3 @@ If you find our work useful in your research, please cite:
 }
 
 ```
-
-## License
-Our code is licensed ****
